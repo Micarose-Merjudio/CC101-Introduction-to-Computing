@@ -20,12 +20,12 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 
 ---
 
-## Course Structure & Modules
+## Content
 
-* [01-Career Pathway](./01-Career Pathway)
-* [02-Know Your Machine](./02-Know Your Machine)
-* [03-Exploring Windows Command Line](./03-Exploring Windows Command Line)
-* [04-Base Conversion Laboratory](./04-Base Conversion Laboratory)
-* [05-Know Your Networks](./05-Know Your Networks)
-* [06-Problem to Readme](./06-Problem to Readme)
+* 01-Career Pathway
+* 02-Know Your Machine
+* 03-Exploring Windows Command Line
+* 04-Base Conversion Laboratory
+* 05-Know Your Networks
+* 06-Problem to Readme
 
